@@ -2,19 +2,19 @@
 
 ## Table of Contents
 
-- Overview
+- __Overview__
   - [Introduction](#introduction)
   - [Requirements](doc/req.md)
   - [Software Methodology](doc/method.md)
-- Design
+- __Design__
   - [Tech stack](doc/stack.md)
   - [Database](doc/db.md)
   - [API's used](doc/api.md)
-- Implementation
+- __Implementation__
   - [Version Control & Deployment](doc/vcD.md)
   - [Code Structure](doc/code.md)
   - [Testing](doc/test.md)
-- Evaluation
+- __Evaluation__
   - [Personal Evaluation](doc/eval.md)
   - [Coding Standards & Principles](doc/princ.md)
   - [Next steps](doc/next.md)

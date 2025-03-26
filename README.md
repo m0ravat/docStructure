@@ -4,7 +4,7 @@
 
 ### Project Background
 
-### Purpose and Motivation
+### Purpose, Motivation and Aim
 
 ## Tech stack and Instructions to run
 

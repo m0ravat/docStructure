@@ -9,7 +9,7 @@
 - __Design__
   - [Tech stack](doc/stack.md)
   - [Database](doc/db.md)
-  - [API's used](doc/api.md)
+  - [API/Libraries used](doc/api.md)
 - __Implementation__
   - [Version Control & Deployment](doc/vcD.md)
   - [Code Structure](doc/code.md)

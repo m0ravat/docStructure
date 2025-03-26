@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Introduction](README.md)
+- [Introduction](#introduction)
 - [Software Methodology](doc/method.md)
 
 ## Introduction

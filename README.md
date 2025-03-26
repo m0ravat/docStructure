@@ -17,7 +17,6 @@
 - __Evaluation__
   - [Personal Evaluation](doc/eval.md)
   - [Coding Standards & Principles](doc/princ.md)
-  - [Next steps](doc/next.md)
 - [References](doc/ref.md)
 
 ## Introduction

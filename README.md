@@ -22,8 +22,17 @@
 
 ## Introduction
 
+What the project is about - Quick summary 
+
 ### Project Background
 
-### Purpose, Motivation and Aim
+Existing versions and how I thought of it & why.
+Value it brings.
+Aim of it. 
 
 ### How to run project
+
+To run this project locally: 
+1. 
+2. 
+3. 

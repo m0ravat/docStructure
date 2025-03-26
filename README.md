@@ -1,5 +1,10 @@
 # Project Name
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Software Methodology](doc/method.md)
+
 ## Introduction
 
 ### Project Background

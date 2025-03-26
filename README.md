@@ -2,8 +2,23 @@
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Software Methodology](doc/method.md)
+- Overview
+  - [Introduction](#introduction)
+  - [Requirements](doc/req.md)
+  - [Software Methodology](doc/method.md)
+- Design
+  - [Tech stack](doc/stack.md)
+  - [Database](doc/db.md)
+  - [API's used](doc/api.md)
+- Implementation
+  - [Version Control & Deployment](doc/vcD.md)
+  - [Code Structure](doc/code.md)
+  - [Testing](doc/test.md)
+- Evaluation
+  - [Personal Evaluation](doc/eval.md)
+  - [Coding Standards & Principles](doc/princ.md)
+  - [Next steps](doc/next.md)
+- [References](doc/ref.md)
 
 ## Introduction
 
@@ -11,8 +26,4 @@
 
 ### Purpose, Motivation and Aim
 
-## Tech stack and Instructions to run
-
-### Software used
-
-### Instructions to run project locally
+### How to run project

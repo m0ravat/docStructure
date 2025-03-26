@@ -33,6 +33,7 @@ Aim of it.
 ### How to run project
 
 To run this project locally: 
-1. 
-2. 
-3. 
+1. Step 1
+2. Step 2
+3. Step 3
+

@@ -26,9 +26,9 @@ What the project is about - Quick summary
 
 ### Project Background
 
-Existing versions and how I thought of it & why.
-Value it brings.
-Aim of it. 
+Existing versions and how I thought of it & why.  
+Value it brings.  
+Aim of it.   
 
 ### How to run project
 

@@ -36,3 +36,5 @@ To run this project locally:
 2. Step 2
 3. Step 3
 
+## Credit to resources used to achieve outcome (videos/websites/documentation)
+

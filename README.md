@@ -4,6 +4,7 @@
 
 - __Overview__
   - [Introduction](#introduction)
+  - [Background Research](doc/research.md)
   - [Requirements](doc/req.md)
   - [Software Methodology](doc/method.md)
 - __Design__

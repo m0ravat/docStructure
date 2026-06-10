@@ -21,15 +21,13 @@
 
 ## Introduction
 
-What the project is about - Quick summary 
+What the project is about - Quick summary
 
 ### Project Background
 
-Existing versions and how I thought of it & why.  
-Value it brings.  
-Aim of it.   
+Problem Description, significance behind project and motivations 
 
-### How to run project
+## How to run project
 
 To run this project locally: 
 1. Step 1

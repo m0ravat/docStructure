@@ -1,17 +1,23 @@
 # Requirements & Objectives
 
-## User Requirements
+## Requirement Elicitation 
 
-## Functional Requirements
+### Method used 
+Survey, AI etc
+### Results Yielded
+
+## User Requirements (MoSCoW Format etc)
+
+### Functional Requirements
 Statements of services the system should provide  
 What the system should do  
 how the system should behave in a particular situation  
 Include: processes/interfaces with users and other systems/data that the system must hold  
 
 
-## Non-functional Requirements
+### Non-functional Requirements
 How the system should behave & how well the system should perform  
-### Include conditions or constraints around
+#### Include conditions or constraints around
 – Performance – for example, response times  
 – Capacity – for example, volumes of data  
 – Reliability  

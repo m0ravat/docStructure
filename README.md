@@ -28,7 +28,7 @@
  
 - [References](doc/ref.md)
 
-## Introduction/Abstract[#introduction]
+## Introduction/Abstract [#introduction]
 
 What the project is about - Quick summary & Strong opening statement. 
 

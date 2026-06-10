@@ -7,11 +7,12 @@
   - [Background Research](doc/research.md)
   - [Requirements & Objectives](doc/req.md)
   - [Software Methodology](doc/method.md)
+  - [Timeline & Project Breakdown](doc/timeline.md)
 - __Design__
   - [Use Case Analysis](doc/usecase.md)
   - [Tech stack](doc/stack.md)
   - [Database](doc/db.md)
-  - [API/Libraries used](doc/api.md)
+  - [API/Libraries](doc/api.md)
 - __Implementation__
   - [Version Control & Deployment](doc/vcD.md)
   - [Code Structure](doc/code.md)

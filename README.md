@@ -8,6 +8,7 @@
   - [Requirements](doc/req.md)
   - [Software Methodology](doc/method.md)
 - __Design__
+  - [Use Case Analysis](doc/usecase.md)
   - [Tech stack](doc/stack.md)
   - [Database](doc/db.md)
   - [API/Libraries used](doc/api.md)

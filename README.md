@@ -5,7 +5,7 @@
 - __Overview__
   - [Introduction](#introduction)
   - [Background Research](doc/research.md)
-  - [Requirements](doc/req.md)
+  - [Requirements & Objectives](doc/req.md)
   - [Software Methodology](doc/method.md)
 - __Design__
   - [Use Case Analysis](doc/usecase.md)

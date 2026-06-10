@@ -14,4 +14,10 @@ Regression Testing: Ensuring new changes do not negatively impact existing featu
 
 Black Box vs White Box, Manual vs Automatic, etc.   
 
+While Coding, after coding, at the end etc.
+
+
+## Test Data   
+
+
 ## Test cases

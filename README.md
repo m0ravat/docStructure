@@ -22,9 +22,9 @@
   - [Coding Standards & Principles](doc/princ.md)
 - [References](doc/ref.md)
 
-## Introduction
+## Introduction/Abstract
 
-What the project is about - Quick summary
+What the project is about - Quick summary & Strong opening statement. 
 
 ### Project Background
 

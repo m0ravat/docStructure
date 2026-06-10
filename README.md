@@ -8,6 +8,7 @@
   - [Requirements & Objectives](doc/req.md)
   - [Software Methodology](doc/method.md)
   - [Timeline & Project Breakdown](doc/timeline.md)
+  - [Legal, Social, Sustainability & Moral Issues](doc/issues.md)
 - __Design__
   - [Use Case Analysis](doc/usecase.md)
   - [Tech stack](doc/stack.md)
